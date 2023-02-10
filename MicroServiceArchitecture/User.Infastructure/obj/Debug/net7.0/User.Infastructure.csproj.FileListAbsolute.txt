@@ -1,0 +1,15 @@
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\bin\Debug\net7.0\User.Infastructure.deps.json
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\bin\Debug\net7.0\User.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\bin\Debug\net7.0\User.Infastructure.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\bin\Debug\net7.0\User.Domain.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\bin\Debug\net7.0\User.Domain.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.AssemblyInfo.cs
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.csproj.CopyComplete
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\refint\User.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\User.Infastructure.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\User.Infastructure\obj\Debug\net7.0\ref\User.Infastructure.dll

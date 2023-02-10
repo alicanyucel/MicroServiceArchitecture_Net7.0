@@ -1,0 +1,15 @@
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\bin\Debug\net7.0\Book.Infastructure.deps.json
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\bin\Debug\net7.0\Book.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\bin\Debug\net7.0\Book.Infastructure.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\bin\Debug\net7.0\Book.Domain.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\bin\Debug\net7.0\Book.Domain.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.AssemblyInfo.cs
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.csproj.CopyComplete
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\refint\Book.Infastructure.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\Book.Infastructure.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Infastructure\obj\Debug\net7.0\ref\Book.Infastructure.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhGasnxcOiRxt+41bXAM7HLtUl9RTAZ/MvJouAfRoJoeLKjVxPgifiX2qhS0C7b7MWSj/XvyfiLEfEW4kLitoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alican\\source\\repos\\MdSoft\\MicroServiceArchitecture\\Book.Infastructure\\Book.Infastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alican\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

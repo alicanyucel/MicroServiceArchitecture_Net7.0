@@ -1,0 +1,12 @@
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\bin\Debug\net7.0\Book.Domain.deps.json
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\bin\Debug\net7.0\Book.Domain.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\bin\Debug\net7.0\Book.Domain.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.AssemblyInfo.cs
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\refint\Book.Domain.dll
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\Book.Domain.pdb
+C:\Users\Alican\source\repos\MdSoft\MicroServiceArchitecture\Book.Domain\obj\Debug\net7.0\ref\Book.Domain.dll
